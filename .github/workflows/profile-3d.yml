@@ -30,6 +30,7 @@ jobs:
                  -e 's/#3572A5/none/g' \
                  -e 's/#444444/none/g' \
                  -e 's/rgb(255,200,55)/none/g' \
+                 -e 's|</svg>|<g transform="translate(1240, 60)"><text x="0" y="0" font-family="Ubuntu, Helvetica, Arial, sans-serif" font-size="36" font-weight="bold" fill="#bf4064" text-anchor="end" style="filter: drop-shadow(0px 0px 8px rgba(191, 64, 100, 0.8));">Cidade de contribuições</text></g></svg>|g' \
                  profile-3d-contrib/profile-night-rainbow.svg
       - name: Commit & Push
         run: |
