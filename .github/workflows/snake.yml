@@ -5,11 +5,14 @@ on:
     - cron: "0 */12 * * *" # Atualiza a cada 12 horas
   workflow_dispatch: # Permite rodar o script manualmente
 
+permissions:
+  contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
       
       - uses: Platane/snk@v3
         with:
