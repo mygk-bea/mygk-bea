@@ -6,15 +6,10 @@
 <!-- Efeito de Digitação (Typing SVG) -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F7118B&center=true&vCenter=true&width=435&lines=Desenvolvedora+Front-end%3BApaixonada+por+tecnologia%3BCriando+interfaces+incríveis)](https://git.io/typing-svg)
 
-### 🐍 Minhas Contribuições (Snake)
-![Snake animation](https://raw.githubusercontent.com/mygk-bea/mygk-bea/output/dist/github-contribution-grid-snake.svg)
-
----
-
 ### 🏙️ Meu GitHub City (3D Contrib)
 *(Aqui aparecerá a sua cidade 3D assim que o Action rodar e analisar os seus commits!)*
 
-![GitHub City](./profile-3d-contrib/profile-night-view.svg)
+![GitHub City](./profile-3d-contrib/profile-night-rainbow.svg)
 
 
 <!--
