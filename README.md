@@ -24,10 +24,8 @@
   <br clear="both"/>
 </div>
 
-
-
 <div align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="GitHub City (Night Rainbow)" /> 
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg?4" alt="GitHub City (Night Rainbow)" /> 
 </div>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:bf4064,16:bf9b40,33:64bf40,50:40bf9b,66:4064bf,83:9b40bf,100:bf4064&height=120&section=footer&fontSize=30&animation=twinkling)
