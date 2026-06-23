@@ -4,17 +4,17 @@
 ## Hi there 👋
 
 <!-- Efeito de Digitação (Typing SVG) -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F7118B&center=true&vCenter=true&width=435&lines=Desenvolvedora+Front-end;Apaixonada+por+tecnologia;Criando+interfaces+incríveis" alt="Typing SVG" /></a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F7118B&center=true&vCenter=true&width=435&lines=Desenvolvedora+Front-end%3BApaixonada+por+tecnologia%3BCriando+interfaces+incríveis)](https://git.io/typing-svg)
 
 ### 🐍 Minhas Contribuições (Snake)
-![Snake animation](https://github.com/mygk-bea/mygk-bea/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/mygk-bea/mygk-bea/output/dist/github-contribution-grid-snake.svg)
 
 ---
 
-### 🏙️ Exemplo do GitHub City (3D Contrib)
-*(Aqui é um exemplo real de como fica a versão "Noturna" do gráfico 3D. Ele pega seus quadradinhos verdes e transforma em uma cidade 3D!)*
+### 🏙️ Meu GitHub City (3D Contrib)
+*(Aqui aparecerá a sua cidade 3D assim que o Action rodar e analisar os seus commits!)*
 
-<img src="https://raw.githubusercontent.com/yoshi389111/github-profile-3d-contrib/main/images/profile-night-view.svg" alt="Exemplo GitHub City" width="800px">
+![GitHub City](./profile-3d-contrib/profile-night-view.svg)
 
 
 <!--
