@@ -1,5 +1,16 @@
-<!-- Cabeçalho Animado (Capsule Render) -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Olá,%20sou%20a%20Bia!&fontSize=50&animation=twinkling)
+<!-- Diferentes Formatos de Cabeçalho (Capsule Render) -->
+### 1. Waving (Ondas Animadas)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:43BA53,15:B09953,30:D9725D,50:BF4373,67:AD2A8A,84:9146CF,100:22BD96&height=150&section=header&fontSize=50&animation=twinkling)
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:43BA53,15:B09953,30:D9725D,50:BF4373,67:AD2A8A,84:9146CF,100:22BD96&height=120&section=footer&fontSize=30&animation=twinkling)
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:E09282,15:BF4373,30:AD2A8A,50:9146CF,67:6B67C2,84:67AAC2,100:48E0D6&height=150&section=header&fontSize=50&animation=twinkling)
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:E09282,15:BF4373,30:AD2A8A,50:9146CF,67:6B67C2,84:67AAC2,100:48E0D6&height=120&section=footer&fontSize=30&animation=twinkling)
+
+
+### 2. Cylinder (Cilindro 3D)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=ffffff&fontColor=000000&height=150&section=header&text=Olá,%20sou%20a%20Bia!&fontSize=50&animation=twinkling)
 
 ## Hi there 👋
 
@@ -29,3 +40,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+---
+
+<!-- Rodapé Animado (Capsule Render) -->
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:fff28f80,14:ffa85c80,28:f7364d80,42:ff4f8480,57:c073ff80,71:54c6ff80,85:1cffc680,100:e2ff9180&height=120&section=footer&text=Obrigada%20pela%20visita!&fontSize=30&animation=twinkling)
