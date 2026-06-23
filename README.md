@@ -9,11 +9,16 @@
 ### 🏙️ Meu GitHub City (3D Contrib)
 *(Aqui aparecerá a sua cidade 3D assim que o Action rodar e analisar os seus commits!)*
 
-![GitHub City](./profile-3d-contrib/profile-night-rainbow.svg)
-![GitHub City](./profile-3d-contrib/profile-night-green.svg)
-![GitHub City](./profile-3d-contrib/profile-gitblock.svg)
-![GitHub City](./profile-3d-contrib/profile-green-animate.svg)
-![GitHub City](./profile-3d-contrib/profile-transparent.svg)
+![GitHub City (GitBlock)](./profile-3d-contrib/profile-gitblock.svg)
+![GitHub City (Green Animate)](./profile-3d-contrib/profile-green-animate.svg)
+![GitHub City (Green)](./profile-3d-contrib/profile-green.svg)
+![GitHub City (Night Green)](./profile-3d-contrib/profile-night-green.svg)
+![GitHub City (Night Rainbow)](./profile-3d-contrib/profile-night-rainbow.svg)
+![GitHub City (Night View)](./profile-3d-contrib/profile-night-view.svg)
+![GitHub City (Season Animate)](./profile-3d-contrib/profile-season-animate.svg)
+![GitHub City (Season)](./profile-3d-contrib/profile-season.svg)
+![GitHub City (South Season Animate)](./profile-3d-contrib/profile-south-season-animate.svg)
+![GitHub City (South Season)](./profile-3d-contrib/profile-south-season.svg)
 
 
 <!--
