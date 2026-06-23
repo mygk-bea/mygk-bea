@@ -18,6 +18,20 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.MEU_TOKEN_SECRETO }}
           USERNAME: ${{ github.repository_owner }}
+      - name: Make background and charts transparent
+        run: |
+          sed -i -e 's/fill="#00000f"/fill="none"/g' \
+                 -e 's/fill="#aaaaaa"/fill="none"/g' \
+                 -e 's/fill="#eeeeff"/fill="none"/g' \
+                 -e 's/fill="#3178c6"/fill="none"/g' \
+                 -e 's/fill="#355570"/fill="none"/g' \
+                 -e 's/fill="#4F5D95"/fill="none"/g' \
+                 -e 's/fill="#00B4AB"/fill="none"/g' \
+                 -e 's/fill="#3572A5"/fill="none"/g' \
+                 -e 's/fill="#444444"/fill="none"/g' \
+                 -e 's/fill="rgb(255,200,55)"/fill="none"/g' \
+                 -e 's/stroke="#00000f"/stroke="none"/g' \
+                 profile-3d-contrib/profile-night-rainbow.svg
       - name: Commit & Push
         run: |
           git config user.name github-actions
