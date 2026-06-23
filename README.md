@@ -10,6 +10,10 @@
 *(Aqui aparecerá a sua cidade 3D assim que o Action rodar e analisar os seus commits!)*
 
 ![GitHub City](./profile-3d-contrib/profile-night-rainbow.svg)
+![GitHub City](./profile-3d-contrib/profile-night-green.svg)
+![GitHub City](./profile-3d-contrib/profile-gitblock.svg)
+![GitHub City](./profile-3d-contrib/profile-green-animate.svg)
+![GitHub City](./profile-3d-contrib/profile-transparent.svg)
 
 
 <!--
