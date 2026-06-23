@@ -20,17 +20,16 @@ jobs:
           USERNAME: ${{ github.repository_owner }}
       - name: Make background and charts transparent
         run: |
-          sed -i -e 's/fill="#00000f"/fill="none"/g' \
-                 -e 's/fill="#aaaaaa"/fill="none"/g' \
-                 -e 's/fill="#eeeeff"/fill="none"/g' \
-                 -e 's/fill="#3178c6"/fill="none"/g' \
-                 -e 's/fill="#355570"/fill="none"/g' \
-                 -e 's/fill="#4F5D95"/fill="none"/g' \
-                 -e 's/fill="#00B4AB"/fill="none"/g' \
-                 -e 's/fill="#3572A5"/fill="none"/g' \
-                 -e 's/fill="#444444"/fill="none"/g' \
-                 -e 's/fill="rgb(255,200,55)"/fill="none"/g' \
-                 -e 's/stroke="#00000f"/stroke="none"/g' \
+          sed -i -e 's/#00000f/none/g' \
+                 -e 's/#aaaaaa/none/g' \
+                 -e 's/#eeeeff/none/g' \
+                 -e 's/#3178c6/none/g' \
+                 -e 's/#355570/none/g' \
+                 -e 's/#4F5D95/none/g' \
+                 -e 's/#00B4AB/none/g' \
+                 -e 's/#3572A5/none/g' \
+                 -e 's/#444444/none/g' \
+                 -e 's/rgb(255,200,55)/none/g' \
                  profile-3d-contrib/profile-night-rainbow.svg
       - name: Commit & Push
         run: |
