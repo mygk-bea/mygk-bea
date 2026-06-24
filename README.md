@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:bf4064,16:bf9b40,33:64bf40,50:40bf9b,66:4064bf,83:9b40bf,100:bf4064&height=150&section=header&text=Olá!%20Seja%20bem-vind🤍!!&fontSize=35&fontColor=ffffff&animation=twinkling&fontAlignY=30)
 
 <div align="center">
-  <h4><i>"Meu nome é Bea, conheça mais sobre mim aqui! ⬇️"</i></h3>
+  <p style="font-size: 20px; font-weight: normal;"><i>"Meu nome é Bea, conheça mais sobre mim aqui! ⬇️"</i></p>
 </div>
 
 ## Quem sou eu?
@@ -13,35 +13,35 @@
 <h2 align="center">Algumas Stacks e Skills</h2>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/-React-0d1117?style=for-the-badge&logo=react&logoColor=00d1f7" />
-  <img src="https://img.shields.io/badge/-TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=2f74c0" />
-  <img src="https://img.shields.io/badge/-Angular-0d1117?style=for-the-badge&logo=angular&logoColor=db3035" />
-  <img src="https://img.shields.io/badge/-JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=e8d44d" />
-  <img src="https://img.shields.io/badge/-Laravel-0d1117?style=for-the-badge&logo=laravel&logoColor=f72c1f" />
-  <img src="https://img.shields.io/badge/-PHP-0d1117?style=for-the-badge&logo=php&logoColor=7377ad" />
-  <img src="https://img.shields.io/badge/-HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=ef8144" />
-  <img src="https://img.shields.io/badge/-CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=c66394" />
-  <img src="https://img.shields.io/badge/-SCSS-0d1117?style=for-the-badge&logo=sass&logoColor=c66394" />
-  <img src="https://img.shields.io/badge/-MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=f7a117" />
-  <img src="https://img.shields.io/badge/-Flutter-0d1117?style=for-the-badge&logo=flutter&logoColor=42caf6" />
-  <img src="https://img.shields.io/badge/-TailwindCSS-0d1117?style=for-the-badge&logo=tailwindcss&logoColor=3db3f2" />
-  <img src="https://img.shields.io/badge/-Ionic-0d1117?style=for-the-badge&logo=ionic&logoColor=367cf7" />
-  <img src="https://img.shields.io/badge/-Python-0d1117?style=for-the-badge&logo=python&logoColor=f6d75a" />
-  <img src="https://img.shields.io/badge/-AWS-0d1117?style=for-the-badge&logo=amazonaws&logoColor=9b40bf" />
-  <img src="https://img.shields.io/badge/-Figma-0d1117?style=for-the-badge&logo=figma&logoColor=#f76e5f" />
-  <img src="https://img.shields.io/badge/-PureData-0d1117?style=for-the-badge&logoColor=40bf9b" />
+  <img src="https://img.shields.io/badge/-React-21262d?style=for-the-badge&logo=react&logoColor=00d1f7" />
+  <img src="https://img.shields.io/badge/-TypeScript-21262d?style=for-the-badge&logo=typescript&logoColor=2f74c0" />
+  <img src="https://img.shields.io/badge/-Angular-21262d?style=for-the-badge&logo=angular&logoColor=db3035" />
+  <img src="https://img.shields.io/badge/-JavaScript-21262d?style=for-the-badge&logo=javascript&logoColor=e8d44d" />
+  <img src="https://img.shields.io/badge/-Laravel-21262d?style=for-the-badge&logo=laravel&logoColor=f72c1f" />
+  <img src="https://img.shields.io/badge/-PHP-21262d?style=for-the-badge&logo=php&logoColor=7377ad" />
+  <img src="https://img.shields.io/badge/-HTML5-21262d?style=for-the-badge&logo=html5&logoColor=ef8144" />
+  <img src="https://img.shields.io/badge/-CSS3-21262d?style=for-the-badge&logo=css3&logoColor=c66394" />
+  <img src="https://img.shields.io/badge/-SCSS-21262d?style=for-the-badge&logo=sass&logoColor=c66394" />
+  <img src="https://img.shields.io/badge/-MySQL-21262d?style=for-the-badge&logo=mysql&logoColor=f7a117" />
+  <img src="https://img.shields.io/badge/-Flutter-21262d?style=for-the-badge&logo=flutter&logoColor=42caf6" />
+  <img src="https://img.shields.io/badge/-TailwindCSS-21262d?style=for-the-badge&logo=tailwindcss&logoColor=3db3f2" />
+  <img src="https://img.shields.io/badge/-Ionic-21262d?style=for-the-badge&logo=ionic&logoColor=367cf7" />
+  <img src="https://img.shields.io/badge/-Python-21262d?style=for-the-badge&logo=python&logoColor=f6d75a" />
+  <img src="https://img.shields.io/badge/-AWS-21262d?style=for-the-badge&logo=amazonaws&logoColor=9b40bf" />
+  <img src="https://img.shields.io/badge/-Figma-21262d?style=for-the-badge&logo=figma&logoColor=#f76e5f" />
+  <img src="https://img.shields.io/badge/-PureData-21262d?style=for-the-badge&logoColor=40bf9b" />
   <br/>
   <br/>
   • • •
   <br/>
   <br/>
-  <img src="https://img.shields.io/badge/-Aprendizado_R%C3%A1pido-0d1117?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-Metodologia_%C3%81gil-0d1117?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-Scrum-0d1117?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-Trabalho_em_Equipe-0d1117?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-Comunica%C3%A7%C3%A3o-0d1117?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-Proatividade-0d1117?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-Resolu%C3%A7%C3%A3o_de_Problemas-0d1117?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Aprendizado_R%C3%A1pido-21262d?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Metodologia_%C3%81gil-21262d?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Scrum-21262d?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Trabalho_em_Equipe-21262d?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Comunica%C3%A7%C3%A3o-21262d?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Proatividade-21262d?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Resolu%C3%A7%C3%A3o_de_Problemas-21262d?style=for-the-badge" />
 </div>
 
 <h2 align="center">Minhas Estatísticas</h2>
