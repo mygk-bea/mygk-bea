@@ -1,12 +1,18 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:bf4064,16:bf9b40,33:64bf40,50:40bf9b,66:4064bf,83:9b40bf,100:bf4064&height=150&section=header&fontSize=50&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:bf4064,16:bf9b40,33:64bf40,50:40bf9b,66:4064bf,83:9b40bf,100:bf4064&height=150&section=header&text=Olá!%20Seja%20bem-vind🤍!!&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35)
 
-### Quem sou eu?
+<div align="center">
+
+> <i>"Meu nome é Bea, conheça mais sobre mim aqui! ⬇️"</i>
+
+</div>
+
+## Quem sou eu?
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=bf4064&center=false&vCenter=true&multiline=true&repeat=false&width=800&height=120&duration=2000&lines=-%20Sou+desenvolvedora+Full-Stack%3B-%20Interesse+em+Eng.+Software+e+Devops%3B-%20Pesquisadora+em+Computa%C3%A7%C3%A3o+Sonora+%28SI%2FUSP%29" alt="Typing SVG" />
 </a>
 
-<h3 align="center">Algumas Stacks e Skills</h3>
+<h2 align="center">Algumas Stacks e Skills</h2>
 
 <div align="center">
   <img src="https://img.shields.io/badge/-React-0d1117?style=for-the-badge&logo=react&logoColor=00d1f7" />
@@ -32,7 +38,7 @@
   <br/>
   <br/>
   <img src="https://img.shields.io/badge/-Aprendizado_R%C3%A1pido-0d1117?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-Métodos_%C3%81geis-0d1117?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Metodologia_%C3%81gil-0d1117?style=for-the-badge" />
   <img src="https://img.shields.io/badge/-Scrum-0d1117?style=for-the-badge" />
   <img src="https://img.shields.io/badge/-Trabalho_em_Equipe-0d1117?style=for-the-badge" />
   <img src="https://img.shields.io/badge/-Comunica%C3%A7%C3%A3o-0d1117?style=for-the-badge" />
@@ -40,7 +46,7 @@
   <img src="https://img.shields.io/badge/-Resolu%C3%A7%C3%A3o_de_Problemas-0d1117?style=for-the-badge" />
 </div>
 
-<h3 align="center">Minhas Estatísticas</h3>
+<h2 align="center">Minhas Estatísticas</h2>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mygk-bea&show_icons=true&title_color=bf4064&icon_color=40bf9b&text_color=bf9b40&bg_color=0d1117&hide_border=true" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=mygk-bea&theme=dark&fire=bf9b40&ring=bf4064&currStreakLabel=40bf9b&sideLabels=9b40bf&sideNums=64bf40&hide_border=true&background=0d1117&hide_longest_streak=true&card_width=300" />
