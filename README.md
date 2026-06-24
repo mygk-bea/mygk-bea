@@ -1,23 +1,46 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:bf4064,16:bf9b40,33:64bf40,50:40bf9b,66:4064bf,83:9b40bf,100:bf4064&height=150&section=header&fontSize=50&animation=twinkling)
 
+### Quem sou eu?
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=bf4064&center=false&vCenter=true&multiline=true&repeat=false&width=800&height=120&duration=2000&lines=-%20Sou+desenvolvedora+Full-Stack%3B-%20Interesse+em+Eng.+Software+e+Devops%3B-%20Pesquisadora+em+Computa%C3%A7%C3%A3o+Sonora+%28SI%2FUSP%29" alt="Typing SVG" />
+</a>
+
+<h3 align="center">Algumas Stacks e Skills</h3>
+
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=bf4064&center=true&vCenter=true&width=435&lines=Desenvolvedora+Front-end%3BApaixonada+por+tecnologia%3BCriando+interfaces+incr%C3%ADveis" alt="Typing SVG" />
-  </a>
+  <img src="https://img.shields.io/badge/-React-0d1117?style=for-the-badge&logo=react&logoColor=00d1f7" />
+  <img src="https://img.shields.io/badge/-TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=2f74c0" />
+  <img src="https://img.shields.io/badge/-Angular-0d1117?style=for-the-badge&logo=angular&logoColor=db3035" />
+  <img src="https://img.shields.io/badge/-JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=e8d44d" />
+  <img src="https://img.shields.io/badge/-Laravel-0d1117?style=for-the-badge&logo=laravel&logoColor=f72c1f" />
+  <img src="https://img.shields.io/badge/-PHP-0d1117?style=for-the-badge&logo=php&logoColor=7377ad" />
+  <img src="https://img.shields.io/badge/-HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=ef8144" />
+  <img src="https://img.shields.io/badge/-CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=c66394" />
+  <img src="https://img.shields.io/badge/-SCSS-0d1117?style=for-the-badge&logo=sass&logoColor=c66394" />
+  <img src="https://img.shields.io/badge/-MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=f7a117" />
+  <img src="https://img.shields.io/badge/-Flutter-0d1117?style=for-the-badge&logo=flutter&logoColor=42caf6" />
+  <img src="https://img.shields.io/badge/-TailwindCSS-0d1117?style=for-the-badge&logo=tailwindcss&logoColor=3db3f2" />
+  <img src="https://img.shields.io/badge/-Ionic-0d1117?style=for-the-badge&logo=ionic&logoColor=367cf7" />
+  <img src="https://img.shields.io/badge/-Python-0d1117?style=for-the-badge&logo=python&logoColor=f6d75a" />
+  <img src="https://img.shields.io/badge/-AWS-0d1117?style=for-the-badge&logo=amazonaws&logoColor=9b40bf" />
+  <img src="https://img.shields.io/badge/-Figma-0d1117?style=for-the-badge&logo=figma&logoColor=#f76e5f" />
+  <img src="https://img.shields.io/badge/-PureData-0d1117?style=for-the-badge&logoColor=40bf9b" />
+  <br/>
+  <br/>
+  • • •
+  <br/>
+  <br/>
+  <img src="https://img.shields.io/badge/-Aprendizado_R%C3%A1pido-0d1117?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Métodos_%C3%81geis-0d1117?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Scrum-0d1117?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Trabalho_em_Equipe-0d1117?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Comunica%C3%A7%C3%A3o-0d1117?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Proatividade-0d1117?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Resolu%C3%A7%C3%A3o_de_Problemas-0d1117?style=for-the-badge" />
 </div>
 
-<br/>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/-HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=bf4064" />
-  <img src="https://img.shields.io/badge/-CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=bf9b40" />
-  <img src="https://img.shields.io/badge/-JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=64bf40" />
-  <img src="https://img.shields.io/badge/-React-0d1117?style=for-the-badge&logo=react&logoColor=40bf9b" />
-  <img src="https://img.shields.io/badge/-TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=4064bf" />
-  <img src="https://img.shields.io/badge/-Figma-0d1117?style=for-the-badge&logo=figma&logoColor=9b40bf" />
-</div>
-
-<br/>
+<h3 align="center">Minhas Estatísticas</h3>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mygk-bea&show_icons=true&title_color=bf4064&icon_color=40bf9b&text_color=bf9b40&bg_color=0d1117&hide_border=true" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=mygk-bea&theme=dark&fire=bf9b40&ring=bf4064&currStreakLabel=40bf9b&sideLabels=9b40bf&sideNums=64bf40&hide_border=true&background=0d1117&hide_longest_streak=true&card_width=300" />
