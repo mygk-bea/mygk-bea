@@ -1,7 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:bf4064,16:bf9b40,33:64bf40,50:40bf9b,66:4064bf,83:9b40bf,100:bf4064&height=150&section=header&text=Olá!%20Seja%20bem-vind🤍!!&fontSize=35&fontColor=ffffff&animation=twinkling&fontAlignY=30)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:bf406450,16:bf9b4075,33:64bf40,50:40bf9b,66:4064bf,83:9b40bf75,100:bf406450&height=150&section=header&text=Olá!%20Seja%20bem-vind🤍!!&fontSize=35&fontColor=ffffff&animation=twinkling&fontAlignY=30)
 
 <div align="center">
-  <p style="font-size: 20px; font-weight: normal;"><i>"Meu nome é Bea, conheça mais sobre mim aqui! ⬇️"</i></p>
+  <p style="font-size: 22px; font-weight: normal;"><i>"Meu nome é Bea, conheça mais sobre mim aqui! ⬇️"</i></p>
 </div>
 
 ## Quem sou eu?
@@ -55,7 +55,7 @@
   <img src="./profile-3d-contrib/profile-night-rainbow.svg?4" alt="GitHub City (Night Rainbow)" /> 
 </div>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:bf4064,16:bf9b40,33:64bf40,50:40bf9b,66:4064bf,83:9b40bf,100:bf4064&height=120&section=footer&fontSize=30&animation=twinkling)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:bf406450,16:bf9b4075,33:64bf40,50:40bf9b,66:4064bf,83:9b40bf75,100:bf406450&height=120&section=footer&text=Obrigada%20pela%20visita!%20Volte%20sempre&fontColor=ffffff&fontSize=30&animation=twinkling)
 
 <!--
 **mygk-bea/mygk-bea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
