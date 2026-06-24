@@ -1,13 +1,18 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:bf406450,16:bf9b4075,33:64bf40,50:40bf9b,66:4064bf,83:9b40bf75,100:bf406450&height=150&section=header&text=Olá!%20Seja%20bem-vind🤍!!&fontSize=30&fontColor=ffffff&animation=twinkling&fontAlignY=30)
 
+---
+</br>
+<img src="./assets/pokemon_end.gif" align="center" />
+
 <div align="center">
   <p style="font-size: 22px; font-weight: normal;"><i>"Meu nome é Bea, conheça mais sobre mim aqui! ⬇️"</i></p>
 </div>
 
-## Quem sou eu?
+## Quem sou eu? 
+<img src="./assets/eevee.gif" width="150" align="right" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=bf4064&center=false&vCenter=true&multiline=true&repeat=false&width=800&height=120&duration=2000&lines=-%20Sou+desenvolvedora+Full-Stack%3B-%20Interesse+em+Eng.+Software+e+Devops%3B-%20Pesquisadora+em+Computa%C3%A7%C3%A3o+Sonora+%28SI%2FUSP%29" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=bf4064&center=false&vCenter=true&multiline=true&repeat=false&width=600&height=120&duration=2000&lines=-%20Sou+desenvolvedora+Full-Stack%3B-%20Interesse+em+Eng.+Software+e+Devops%3B-%20Pesquisadora+em+Computa%C3%A7%C3%A3o+Sonora+%28SI%2FUSP%29" alt="Typing SVG" />
 </a>
 
 <h2 align="center">Algumas Stacks e Skills</h2>
@@ -55,7 +60,7 @@
   <img src="./profile-3d-contrib/profile-night-rainbow.svg?4" alt="GitHub City (Night Rainbow)" /> 
 </div>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:bf406450,16:bf9b4075,33:64bf40,50:40bf9b,66:4064bf,83:9b40bf75,100:bf406450&height=150&section=footer&text=Obrigada%20pela%20visita%20🤍%20Volte%20sempre!&fontColor=ffffff&fontSize=30&animation=twinkling&fontAlignY=70)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:bf406450,16:bf9b4075,33:64bf40,50:40bf9b,66:4064bf,83:9b40bf75,100:bf406450&height=150&section=footer&text=Obrigada%20pela%20visita%20🤍%20Volte%20sempre!&fontColor=ffffff&fontSize=25&animation=twinkling&fontAlignY=70)
 
 <!--
 **mygk-bea/mygk-bea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
