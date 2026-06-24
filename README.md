@@ -1,15 +1,13 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:bf4064,16:bf9b40,33:64bf40,50:40bf9b,66:4064bf,83:9b40bf,100:bf4064&height=150&section=header&text=Olá!%20Seja%20bem-vind🤍!!&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=35)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:bf4064,16:bf9b40,33:64bf40,50:40bf9b,66:4064bf,83:9b40bf,100:bf4064&height=150&section=header&text=Olá!%20Seja%20bem-vind🤍!!&fontSize=35&fontColor=ffffff&animation=twinkling&fontAlignY=30)
 
 <div align="center">
-
-<i>"Meu nome é Bea, conheça mais sobre mim aqui! ⬇️"</i>
-
+  <h4><i>"Meu nome é Bea, conheça mais sobre mim aqui! ⬇️"</i></h3>
 </div>
 
 ## Quem sou eu?
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=bf4064&center=false&vCenter=true&multiline=true&repeat=false&width=800&height=120&duration=2000&lines=-%20Sou+desenvolvedora+Full-Stack%3B-%20Interesse+em+Eng.+Software+e+Devops%3B-%20Pesquisadora+em+Computa%C3%A7%C3%A3o+Sonora+%28SI%2FUSP%29" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=bf4064&center=false&vCenter=true&multiline=true&repeat=false&width=800&height=120&duration=2000&lines=-%20Sou+desenvolvedora+Full-Stack%3B-%20Interesse+em+Eng.+Software+e+Devops%3B-%20Pesquisadora+em+Computa%C3%A7%C3%A3o+Sonora+%28SI%2FUSP%29" alt="Typing SVG" />
 </a>
 
 <h2 align="center">Algumas Stacks e Skills</h2>

@@ -32,6 +32,7 @@ jobs:
                  -e 's/rgb(255,200,55)/none/g' \
                  profile-3d-contrib/profile-night-rainbow.svg
           node update_title.js
+          find profile-3d-contrib -type f ! -name 'profile-night-rainbow.svg' -delete
       - name: Commit & Push
         run: |
           git config user.name github-actions
