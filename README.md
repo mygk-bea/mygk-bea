@@ -1,9 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:bf406450,16:bf9b4075,33:64bf40,50:40bf9b,66:4064bf,83:9b40bf75,100:bf406450&height=150&section=header&text=Olá!%20Seja%20bem-vind🤍!!&fontSize=30&fontColor=ffffff&animation=twinkling&fontAlignY=30)
 
----
-</br>
-<img src="./assets/pokemon_end.gif" align="center" />
-
 <div align="center">
   <p style="font-size: 22px; font-weight: normal;"><i>"Meu nome é Bea, conheça mais sobre mim aqui! ⬇️"</i></p>
 </div>
@@ -60,7 +56,15 @@
   <img src="./profile-3d-contrib/profile-night-rainbow.svg?4" alt="GitHub City (Night Rainbow)" /> 
 </div>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:bf406450,16:bf9b4075,33:64bf40,50:40bf9b,66:4064bf,83:9b40bf75,100:bf406450&height=150&section=footer&text=Obrigada%20pela%20visita%20🤍%20Volte%20sempre!&fontColor=ffffff&fontSize=25&animation=twinkling&fontAlignY=70)
+---
+<br>
+
+<div align="center">
+  <img src="./assets/pokemon_end.gif" height="100" />
+    <p style="font-size: 22px; font-weight: normal;"><i>"Obrigada pela visita 🤍 Volte sempre!"</i></p>
+</div>
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:bf406450,16:bf9b4075,33:64bf40,50:40bf9b,66:4064bf,83:9b40bf75,100:bf406450&height=130&section=footer)
 
 <!--
 **mygk-bea/mygk-bea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

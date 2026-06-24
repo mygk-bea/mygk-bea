@@ -15,14 +15,14 @@ const titleInjection = `
 </g>`;
 
 const gifs = [
-  // { file: 'mew_shiny.gif', x: 110, y: 130, width: 120, height: 100 },
+  { file: 'mew_shiny.gif', x: 110, y: 130, width: 90, height: 100 },
   { file: 'gengar.gif', x: 790, y: 500, width: 120, height: 120 },
-  // { file: 'glaceon.gif', x: 550, y: 430, width: 150, height: 100 },
-  // { file: 'sylveon.gif', x: 100, y: 450, width: 110, height: 110 },
-  // { file: 'pikachu.gif', x: 350, y: 680, width: 90, height: 90 },
-  // { file: 'charmander.gif', x: 750, y: 650, width: 100, height: 100 },
-  // { file: 'psyduck.gif', x: 150, y: 700, width: 90, height: 90 },
-  // { file: 'cyndaquil.gif', x: 1050, y: 680, width: 90, height: 90 }
+  { file: 'glaceon.gif', x: 550, y: 440, width: 150, height: 100 },
+  { file: 'sylveon.gif', x: 390, y: 290, width: 75, height: 110, flip: true },
+  { file: 'pikachu.gif', x: 270, y: 215, width: 70, height: 90 },
+  { file: 'charmander.gif', x: 1100, y: 650, width: 60, height: 100 },
+  { file: 'psyduck.gif', x: 900, y: 590, width: 120, height: 90 },
+  { file: 'cyndaquil.gif', x: 870, y: 650, width: 70, height: 90, flip: true }
 ];
 
 let gifsInjection = '<g id="custom-gifs">\n';
@@ -31,7 +31,16 @@ gifs.forEach(gif => {
   const filePath = path.join(__dirname, 'assets', gif.file);
   if (fs.existsSync(filePath)) {
     const base64 = fs.readFileSync(filePath, 'base64');
-    gifsInjection += `  <image x="${gif.x}" y="${gif.y}" width="${gif.width}" height="${gif.height}" href="data:image/gif;base64,${base64}" />\n`;
+    
+    let xPos = gif.x;
+    let transform = '';
+    
+    if (gif.flip) {
+      xPos = -(gif.x + gif.width);
+      transform = ' transform="scale(-1, 1)"';
+    }
+    
+    gifsInjection += `  <image x="${xPos}" y="${gif.y}" width="${gif.width}" height="${gif.height}" href="data:image/gif;base64,${base64}"${transform} />\n`;
   } else {
     console.warn(`⚠️ GIF não encontrado na pasta assets: ${gif.file}`);
   }
